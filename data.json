@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Caffè Americano",
+        "category": "Hot Coffees",
+        "size1": "Short",
+        "size2": "Tall",
+        "size3": "Grande",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 2,
+        "name": "Caffè Latte",
+        "category": "Latte",
+        "size1": "Short",
+        "size2": "Tall",
+        "size3": "Grande",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 3,
+        "name": "Caramel Macchiato",
+        "category": "Latte",
+        "size1": "Short",
+        "size2": "Tall",
+        "size3": "Grande",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 4,
+        "name": "Cappuccino",
+        "category": "Hot Coffees",
+        "size1": "Short",
+        "size2": "Tall",
+        "size3": "Grande",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 5,
+        "name": "Peppermint Mocha",
+        "category": "Mocha",
+        "size1": "Short",
+        "size2": "Tall",
+        "size3": "Grande",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 6,
+        "name": "Hot Tea",
+        "category": "Hot Tea",
+        "size1": "Short",
+        "size2": "Tall",
+        "size3": "Grande",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 7,
+        "name": "Iced Coffee",
+        "category": "Cold Coffees",
+        "size1": "Tall",
+        "size2": "Grande",
+        "size3": "Venti",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 8,
+        "name": "Iced Caffè Latte",
+        "category": "Cold Coffees",
+        "size1": "Tall",
+        "size2": "Grande",
+        "size3": "Venti",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 9,
+        "name": "Iced Caramel Macchiato",
+        "category": "Cold Coffees",
+        "size1": "Tall",
+        "size2": "Grande",
+        "size3": "Venti",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    },
+    {
+        "id": 10,
+        "name": "Iced Matcha Green Tea Latte",
+        "category": "Iced Tea",
+        "size1": "Tall",
+        "size2": "Grande",
+        "size3": "Venti",
+        "price1": 18.99,
+        "price2": 28.99,
+        "price3": 38.99
+    }
+]
